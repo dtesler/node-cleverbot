@@ -1,0 +1,28 @@
+{
+  "name": "cleverbot",
+  "version": "1.0.0",
+  "description": "Wrapper for the official cleverbot API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtesler/node-cleverbot.git"
+  },
+  "keywords": [
+    "cleverbot",
+    "api",
+    "official"
+  ],
+  "author": "David Tesler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtesler/node-cleverbot/issues"
+  },
+  "homepage": "https://github.com/dtesler/node-cleverbot#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "request": "^2.79.0"
+  }
+}
