@@ -24,3 +24,6 @@ clev.query('Just a small town girl')
 
 });
 ```
+
+
+#### More docs coming soon.  Stay tuned.
