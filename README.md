@@ -2,6 +2,12 @@
 
 In order to use this package, you must obtain a Cleverbot API key [here](http://cleverbot.com/api).
 
+### Installation
+
+```shell
+$ npm install --save cleverbot
+```
+
 ### Usage
 
 ```javascript

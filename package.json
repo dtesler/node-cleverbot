@@ -1,6 +1,6 @@
 {
   "name": "cleverbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for the official cleverbot API",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   "dependencies": {
     "bluebird": "^3.4.7",
     "request": "^2.79.0"
-  }
+  },
+  "devDependencies": {}
 }
