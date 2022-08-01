@@ -1,6 +1,6 @@
 {
   "name": "cleverbot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper for the official cleverbot API",
   "main": "index.js",
   "scripts": {
